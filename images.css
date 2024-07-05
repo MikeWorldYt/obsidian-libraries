@@ -1,0 +1,71 @@
+/* Tamaños */
+.s100 { width: 100px; }
+.s150 { width: 150px; }
+.s200 { width: 200px; }
+.s250 { width: 250px; }
+.s300 { width: 300px; }
+.s350 { width: 350px; }
+.s400 { width: 400px; }
+.s450 { width: 450px; }
+.s500 { width: 500px; }
+
+/* Tamaños en porcentajes */
+.s50p { width: 50%; }
+.s75p { width: 75%; }
+.s100p { width: 100%; }
+
+/* Tamaños en unidades de vista */
+.s10vw { width: 10vw; }
+.s25vw { width: 25vw; }
+.s50vw { width: 50vw; }
+.s75vw { width: 75vw; }
+.s100vw { width: 100vw; }
+
+/* Tamaños en em/rem */
+.s10em { width: 10em; }
+.s20em { width: 20em; }
+.s30em { width: 30em; }
+.s10rem { width: 10rem; }
+.s20rem { width: 20rem; }
+.s30rem { width: 30rem; }
+
+
+/* Alineaciones */
+.center { display: block; margin-left: auto; margin-right: auto; }
+.left { float: left; }
+.right { float: right; }
+
+/* Bordes */
+.border { border: 1px solid #000 !important; }
+.border-none { border: none !important; }
+.border-radius { border-radius: 10px !important; }
+.border-radius-small { border-radius: 5px !important; }
+.border-radius-large { border-radius: 20px !important; }
+.border-red { border: 1px solid red !important; }
+
+/* Sombras */
+.shadow { box-shadow: 2px 2px 5px rgba(0,0,0,0.5); }
+.shadow-none { box-shadow: none; }
+.shadow-small { box-shadow: 1px 1px 3px rgba(0,0,0,0.3); }
+.shadow-large { box-shadow: 3px 3px 8px rgba(0,0,0,0.7); }
+
+
+
+/* Opacidad */
+.opacity-50 { opacity: 0.5; }
+.opacity-75 { opacity: 0.75; }
+.opacity-100 { opacity: 1; }
+
+/* Redimensionamiento */
+.scale-90 { transform: scale(0.9); }
+.scale-110 { transform: scale(1.1); }
+
+/* Rotación */
+.rotate-45 { transform: rotate(45deg); }
+.rotate-90 { transform: rotate(90deg); }
+.rotate-180 { transform: rotate(180deg); }
+
+/* Filtros */
+.grayscale { filter: grayscale(100%); }
+.sepia { filter: sepia(100%); }
+.blur { filter: blur(5px); }

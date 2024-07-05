@@ -42,6 +42,10 @@
 .border-radius-small { border-radius: 5px !important; }
 .border-radius-large { border-radius: 20px !important; }
 .border-red { border: 1px solid red !important; }
+.border-blue { border: 1px solid blue !important; }
+.border-emerald { border: 1px solid #29c79f !important; }
+.border-yellow { border: 1px solid yellow !important; }
+.border-white { border: 1px solid white !important; }
 
 /* Sombras */
 .shadow { box-shadow: 2px 2px 5px rgba(0,0,0,0.5); }
